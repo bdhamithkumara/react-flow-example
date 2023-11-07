@@ -16,6 +16,11 @@ const initialNodes = [
 ];
 const initialEdges = [{ id: 'e1-2', source: '1', target: '2' }];
 
+//zoom in 
+//zoom out 
+//fit to window 
+//mini map
+
 const SomeExtraGoodies = () => {
 
     const [nodes, setNodes, onNodesChange] = useNodesState(initialNodes);
