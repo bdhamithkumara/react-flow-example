@@ -29,7 +29,7 @@ const initialEdges = [
   { id: 'e2-3', source: '2', target: '3' }
 ];
 
-function App() {
+function CreatingYourFirstFlow() {
 
   return (
     <>
@@ -40,4 +40,4 @@ function App() {
   )
 }
 
-export default App
+export default CreatingYourFirstFlow
